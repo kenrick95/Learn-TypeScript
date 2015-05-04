@@ -1,0 +1,6 @@
+D:\Cloud\GitHub\Learn-TypeScript\Module 9\CookBook\bin\CookBook-Module9.dll.config
+D:\Cloud\GitHub\Learn-TypeScript\Module 9\CookBook\bin\CookBook-Module9.dll
+D:\Cloud\GitHub\Learn-TypeScript\Module 9\CookBook\bin\CookBook-Module9.pdb
+D:\Cloud\GitHub\Learn-TypeScript\Module 9\CookBook\obj\Debug\CookBook-Module9.csprojResolveAssemblyReference.cache
+D:\Cloud\GitHub\Learn-TypeScript\Module 9\CookBook\obj\Debug\CookBook-Module9.dll
+D:\Cloud\GitHub\Learn-TypeScript\Module 9\CookBook\obj\Debug\CookBook-Module9.pdb
