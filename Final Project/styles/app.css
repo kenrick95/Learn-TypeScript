@@ -1,0 +1,52 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 40px;
+    color: #111;
+}
+img {
+    vertical-align: middle;
+}
+nav {
+    margin-top: 1em;
+}
+main {
+    margin: 1em 0;
+}
+select {
+    font-family: inherit;
+    line-height: 1em;
+    font-size: 1.1em;
+}
+#painterSelectDefault {
+    font-style: italic;
+}
+footer {
+    color: #999;
+}
+.examples {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: row wrap;
+    flex-flow: row wrap;
+}
+.painting{
+    -webkit-flex: 1 0 auto;
+    flex: 1 0 auto;
+    height: 20em;
+    color: white;
+    background-color: #111;
+    background-size: 100% auto;
+    background-repeat:no-repeat;
+    background-position: center center;
+    margin: .5em;
+    padding: .5em;
+}
+.title>a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}

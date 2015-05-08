@@ -1,0 +1,165 @@
+{
+    "famousPainters": [
+        {
+            "name": "Michelangelo",
+            "style": "Renaissance",
+            "nationality": "Italian",
+            "birthdate": "4 March 1475",
+            "birthplace": "Caprese near Arezzo, Republic of Florence",
+            "examples": [
+                {
+                    "title": "David",
+                    "year": "1501-04",
+                    "link": "https://en.wikipedia.org/wiki/File:Michelangelo-David_JB01.JPG",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Michelangelo-David_JB01.JPG/400px-Michelangelo-David_JB01.JPG"
+                },
+                {
+                    "title": "Sistine Chapel ceiling",
+                    "year": "1508-1512",
+                    "link": "https://en.wikipedia.org/wiki/File:Sistine_chapel.jpg",
+                    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Sistine_chapel.jpg/406px-Sistine_chapel.jpg"
+                },
+                {
+                    "title": "The Last Judgement",
+                    "year": "1536-1541",
+                    "link": "https://en.wikipedia.org/wiki/File:Michelangelo,_Giudizio_Universale_02.jpg",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Michelangelo%2C_Giudizio_Universale_02.jpg/499px-Michelangelo%2C_Giudizio_Universale_02.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Raphael",
+            "style": "Renaissance",
+            "nationality": "Italian",
+            "birthdate": "6 April 1483",
+            "birthplace": "Urbino, Marche, Italy",
+            "examples": [ {
+                    "title": "The School of Athens",
+                    "year": "1509-1511",
+                    "link": "https://en.wikipedia.org/wiki/File:Sanzio_01.jpg",
+                    "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sanzio_01.jpg/773px-Sanzio_01.jpg"
+                }, {
+                    "title": "Lucretia",
+                    "year": "1500-1501",
+                    "link": "https://en.wikipedia.org/wiki/File:Sandro_Botticelli_078.jpg",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sandro_Botticelli_078.jpg/495px-Sandro_Botticelli_078.jpg"
+                }, {
+                    "title": "Saint George and the Dragon",
+                    "year": "1504-1506",
+                    "link": "https://en.wikipedia.org/wiki/File:Saint_george_raphael.jpg",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Saint_george_raphael.jpg/456px-Saint_george_raphael.jpg"
+                } ]
+        },
+        {
+            "name": "Vincent van Gogh",
+            "style": "Post-Impressionist",
+            "nationality": "Dutch",
+            "birthdate": "30 March 1853",
+            "birthplace": "Zundert, Netherlands",
+            "examples": [ {
+                    "title": "Self-portrait",
+                    "year": "1889",
+                    "link": "https://en.wikipedia.org/wiki/File:Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg",
+                    "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg/493px-Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg"
+                }, {
+                    "title": "The Starry Night",
+                    "year": "1889",
+                    "link": "https://en.wikipedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/757px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"
+                }, {
+                    "title": "The Yellow House",
+                    "year": "1888",
+                    "link": "https://en.wikipedia.org/wiki/File:Vincent_van_Gogh_-_The_yellow_house_%28%27The_street%27%29.jpg",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Vincent_van_Gogh_-_The_yellow_house_%28%27The_street%27%29.jpg/773px-Vincent_van_Gogh_-_The_yellow_house_%28%27The_street%27%29.jpg"
+                } ]
+        },
+        {
+            "name": "Claude Monet",
+            "style": "Impressionist",
+            "nationality": "French",
+            "birthdate": "14 November 1840",
+            "birthplace": "Paris, France",
+            "examples": [ {
+                    "title": "Morning on the Seine",
+                    "year": "1893",
+                    "link": "http://art-monet.com/1890_57.html",
+                    "image": "http://art-monet.com/image/1890/1893%20Morning%20on%20the%20Seine.jpg"
+                }, {
+                    "title": "The Woman in the Green Dress",
+                    "year": "1866",
+                    "link": "https://en.wikipedia.org/wiki/File:Claude_Monet_-_Camille.JPG",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Claude_Monet_-_Camille.JPG/384px-Claude_Monet_-_Camille.JPG"
+                }, {
+                    "title": "Impression, Sunrise",
+                    "year": "1872",
+                    "link": "https://en.wikipedia.org/wiki/File:Claude_Monet,_Impression,_soleil_levant.jpg",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Claude_Monet%2C_Impression%2C_soleil_levant.jpg/771px-Claude_Monet%2C_Impression%2C_soleil_levant.jpg"
+                } ]
+        },
+        {
+            "name": "Johannes Vermeer",
+            "style": "Baroque",
+            "nationality": "Dutch",
+            "birthdate": "1632",
+            "birthplace": "Delft, Dutch Republic",
+            "examples": [ {
+                    "title": "The Milkmaid",
+                    "year": "1657-1658",
+                    "link": "https://en.wikipedia.org/wiki/File:Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg",
+                    "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg/535px-Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg"
+                }, {
+                    "title": "Girl with a Pearl Earring",
+                    "year": "1665",
+                    "link": "https://en.wikipedia.org/wiki/File:Meisje_met_de_parel.jpg",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Meisje_met_de_parel.jpg/512px-Meisje_met_de_parel.jpg"
+                }, {
+                    "title": "The Music Lesson",
+                    "year": "1662-1665",
+                    "link": "https://en.wikipedia.org/wiki/File:Jan_Vermeer_van_Delft_014.jpg",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Jan_Vermeer_van_Delft_014.jpg/522px-Jan_Vermeer_van_Delft_014.jpg"
+                } ]
+        },
+        {
+            "name": "Leonardo da Vinci",
+            "style": "High Renaissance",
+            "nationality": "Italian",
+            "birthdate": "15 April 1452",
+            "birthplace": "Vinci, Republic of Florence",
+            "examples": [ {
+                    "title": "Mona Lisa",
+                    "year": "1503-1506",
+                    "link": "https://en.wikipedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/402px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg"
+                }, {
+                    "title": "The Last Supper",
+                    "year": "1494-1499",
+                    "link": "https://en.wikipedia.org/wiki/File:%C3%9Altima_Cena_-_Da_Vinci_5.jpg",
+                    "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%C3%9Altima_Cena_-_Da_Vinci_5.jpg/800px-%C3%9Altima_Cena_-_Da_Vinci_5.jpg"
+                }, {
+                    "title": "The Vitruvian Man",
+                    "year": "1490",
+                    "link": "https://en.wikipedia.org/wiki/File:Da_Vinci_Vitruve_Luc_Viatour.jpg",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg/441px-Da_Vinci_Vitruve_Luc_Viatour.jpg"
+                }, {
+                    "title": "Lady with an Ermine",
+                    "year": "1489-90",
+                    "link": "https://en.wikipedia.org/wiki/File:Dama_z_gronostajem.jpg",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Dama_z_gronostajem.jpg/435px-Dama_z_gronostajem.jpg"
+                } ]
+        },
+        {
+            "name": "Eugene Delacroix",
+            "style": "Romanticism",
+            "nationality": "Italian",
+            "birthdate": "26 April 1798",
+            "birthplace": "Charenton-Saint-Maurice, Ile-de-France, France",
+            "examples": [ {
+                    "title": "La Liberte guidant le peuple",
+                    "year": "1830",
+                    "link": "https://en.wikipedia.org/wiki/File:Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg/757px-Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg"
+                } ]
+        }
+    ]
+
+}

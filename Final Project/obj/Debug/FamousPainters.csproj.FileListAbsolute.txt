@@ -1,0 +1,6 @@
+D:\Cloud\GitHub\Learn-TypeScript\Final Project\bin\FamousPainters.dll.config
+D:\Cloud\GitHub\Learn-TypeScript\Final Project\bin\FamousPainters.dll
+D:\Cloud\GitHub\Learn-TypeScript\Final Project\bin\FamousPainters.pdb
+D:\Cloud\GitHub\Learn-TypeScript\Final Project\obj\Debug\FamousPainters.csprojResolveAssemblyReference.cache
+D:\Cloud\GitHub\Learn-TypeScript\Final Project\obj\Debug\FamousPainters.dll
+D:\Cloud\GitHub\Learn-TypeScript\Final Project\obj\Debug\FamousPainters.pdb
